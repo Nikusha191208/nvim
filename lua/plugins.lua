@@ -8,4 +8,5 @@ return require('packer').startup(function(use)
     use {'neoclide/coc.nvim', branch = 'release'}
     use 'm4xshen/autoclose.nvim'
     use 'Pocco81/auto-save.nvim'
+    use 'norcalli/nvim-colorizer.lua'
 end)
