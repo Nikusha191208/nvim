@@ -1,0 +1,5 @@
+vim.keymap.set('i', '(', '()<left>', {noremap = true, silent = true})
+vim.keymap.set('i', '[', '[]<left>', {noremap = true, silent = true})
+vim.keymap.set('i', '{', '{}<left>', {noremap = true, silent = true})
+vim.keymap.set('i', "'", "''<left>", {noremap = true, silent = true})
+vim.keymap.set('i', '"', '""<left>', {noremap = true, silent = true})
