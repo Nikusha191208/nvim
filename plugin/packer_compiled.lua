@@ -95,6 +95,11 @@ _G.packer_plugins = {
     path = "/home/nikoloz/.local/share/nvim/site/pack/packer/start/coc.nvim",
     url = "https://github.com/neoclide/coc.nvim"
   },
+  ["indent-blankline.nvim"] = {
+    loaded = true,
+    path = "/home/nikoloz/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+    url = "https://github.com/lukas-reineke/indent-blankline.nvim"
+  },
   ["nvim-tree.lua"] = {
     loaded = true,
     path = "/home/nikoloz/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
