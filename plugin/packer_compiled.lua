@@ -100,6 +100,11 @@ _G.packer_plugins = {
     path = "/home/nikoloz/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
     url = "https://github.com/lukas-reineke/indent-blankline.nvim"
   },
+  ["nvim-scrollbar"] = {
+    loaded = true,
+    path = "/home/nikoloz/.local/share/nvim/site/pack/packer/start/nvim-scrollbar",
+    url = "https://github.com/petertriho/nvim-scrollbar"
+  },
   ["nvim-tree.lua"] = {
     loaded = true,
     path = "/home/nikoloz/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
